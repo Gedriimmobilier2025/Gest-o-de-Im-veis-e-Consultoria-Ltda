@@ -1,0 +1,5 @@
+/public/locales
+├── pt/common.json
+├── en/common.json
+├── fr/common.json
+└── de/common.json
