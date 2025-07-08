@@ -1,0 +1,10 @@
+/pages
+│
+├── index.tsx              → Página inicial
+├── about.tsx              → Sobre a empresa
+├── properties/
+│   ├── index.tsx          → Lista de imóveis
+│   └── [id].tsx           → Página de imóvel individual
+├── contact.tsx            → Formulário de contato
+├── _app.tsx               → Configuração global
+└── _document.tsx          → HTML base
