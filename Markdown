@@ -1,0 +1,11 @@
+# 🚀 Setup do Projeto Gedri Immobilier com Next.js
+
+Este guia contém todas as etapas para criar um site institucional moderno, multilíngue e interativo para a Gedri Immobilier usando Next.js, Tailwind CSS e outras ferramentas modernas.
+
+---
+
+## 🧱 1. Criar o Projeto com Next.js + TypeScript
+
+```bash
+npx create-next-app@latest gedri-immobilier --typescript
+cd gedri-immobilier
