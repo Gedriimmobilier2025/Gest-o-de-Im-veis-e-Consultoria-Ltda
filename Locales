@@ -1,0 +1,9 @@
+/locales
+├── en/
+│   └── common.json
+├── pt/
+│   └── common.json
+├── fr/
+│   └── common.json
+└── de/
+    └── common.json
